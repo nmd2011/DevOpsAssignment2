@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16516" started-at="2019-10-07T19:43:57 PDT" finished-at="2019-10-07T19:44:14 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16516" started-at="2019-10-07T19:43:57 PDT" finished-at="2019-10-07T19:44:14 PDT">
+      <class name="testCases.Login">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:testCases.Login@22a67b4]" name="setDriver" is-config="true" duration-ms="10669" started-at="2019-10-07T19:43:57 PDT" finished-at="2019-10-07T19:44:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:testCases.Login@22a67b4]" name="invokeBrowser" duration-ms="4706" started-at="2019-10-07T19:44:08 PDT" finished-at="2019-10-07T19:44:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testCases.Login@22a67b4]" name="teardown" is-config="true" duration-ms="1035" started-at="2019-10-07T19:44:13 PDT" finished-at="2019-10-07T19:44:14 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
